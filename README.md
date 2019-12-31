@@ -31,4 +31,9 @@ https://ifttt.com/
 ## usage
 
 ## issue
-LINEだと英語abstractで途切れる．
+LINEだと英語abstractで文字列が途切れる．
+
+## references
+https://note.nkmk.me/python-arxiv-api-download-rss/ <br>
+https://qiita.com/sugup/items/31911ae21c17a1de89ad
+
