@@ -38,6 +38,9 @@ run `python main.py`
 ### 論文検索クエリ
 例はcvカテゴリでabstract(summary)に"pose estimation"の語を含むもの
 
+カテゴリ一覧<br>
+https://arxiv.org/help/api/user-manual#subject_classifications
+
 ### 定期実行
 herokuや研究室のワークステーションで．
 
