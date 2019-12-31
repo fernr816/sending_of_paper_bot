@@ -5,7 +5,6 @@
 `pip install arxiv`<br>
 `pip install googletrans`
 
-書きかけ-------------------------------------------<br>
 ### IFTTT(2019.12現在)
 #### 登録
 https://ifttt.com/
@@ -17,6 +16,19 @@ https://ifttt.com/
 - Receive a web request
 - 任意のEvent Name
 
-### THATの設定
+#### THATの設定
 - Thatをクリック
 - 連携先を検索(twitter, LINE, etc...)
+- (LINEの場合)Recipient…1:1でLINE Notifyから通知を受け取る
+- (LINEの場合)Message…{{Value1}}に文字列が渡される
+
+#### webhooksのキー確認
+- 右上のアイコンからMy services
+- Webhooks
+- Setting
+- URL: https://maker.ifttt.com/use/YOUR_KEY
+
+## usage
+
+## issue
+LINEだと英語abstractで途切れる．
