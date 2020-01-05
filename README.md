@@ -1,5 +1,8 @@
 # sending_of_paper_bot
 
+main.py … ローカル用<br>
+lambda_function.py … lambda用
+
 ## require
 ### module
 `pip install arxiv`<br>
