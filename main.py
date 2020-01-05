@@ -4,8 +4,8 @@ from googletrans import Translator
 import requests
 
 # ユーザ設定
-EVENT_NAME1 = "send_paper_line"  # 自分のWebhooksのEvent Name
-EVENT_NAME2 = "send_paper_slack"  # 自分のWebhooksのEvent Name
+EVENT_NAME1 = "example_line"  # 自分のWebhooksのEvent Name
+EVENT_NAME2 = "example_slack"  # 自分のWebhooksのEvent Name
 WEBHOOKS_KEY = ""  # 自分のWebhooksのキー
 API_URL1 = "https://maker.ifttt.com/trigger/{}/with/key/{}".format(EVENT_NAME1, WEBHOOKS_KEY)
 API_URL2 = "https://maker.ifttt.com/trigger/{}/with/key/{}".format(EVENT_NAME2, WEBHOOKS_KEY)
